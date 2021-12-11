@@ -4,3 +4,6 @@
 [submodule "part1/courseinfo"]
 	path = part1/courseinfo
 	url = https://github.com/kjj1998/courseinfo.git
+[submodule "part1/unicafe"]
+	path = part1/unicafe
+	url = https://github.com/kjj1998/unicafe.git
