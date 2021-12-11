@@ -28,3 +28,9 @@
 [submodule "part5/fullstackopen-blog-frontend"]
 	path = part5/fullstackopen-blog-frontend
 	url = https://github.com/kjj1998/fullstackopen-blog-frontend.git
+[submodule "part6/redux-anecdotes"]
+	path = part6/redux-anecdotes
+	url = https://github.com/kjj1998/redux-anecdotes.git
+[submodule "part6/unicafe-redux"]
+	path = part6/unicafe-redux
+	url = https://github.com/kjj1998/unicafe-redux.git
