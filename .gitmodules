@@ -34,3 +34,12 @@
 [submodule "part6/unicafe-redux"]
 	path = part6/unicafe-redux
 	url = https://github.com/kjj1998/unicafe-redux.git
+[submodule "part7/country-hook"]
+	path = part7/country-hook
+	url = https://github.com/kjj1998/country-hook.git
+[submodule "part7/routed-anecdotes"]
+	path = part7/routed-anecdotes
+	url = https://github.com/kjj1998/routed-anecdotes.git
+[submodule "part7/ultimate-hooks"]
+	path = part7/ultimate-hooks
+	url = https://github.com/kjj1998/ultimate-hooks.git
