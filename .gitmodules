@@ -10,3 +10,6 @@
 [submodule "part2/phonebook"]
 	path = part2/phonebook
 	url = https://github.com/kjj1998/phonebook.git
+[submodule "part2/courseinfo-part2"]
+	path = part2/courseinfo-part2
+	url = https://github.com/kjj1998/courseinfo-part2.git
