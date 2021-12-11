@@ -16,3 +16,9 @@
 [submodule "part2/countrydata"]
 	path = part2/countrydata
 	url = https://github.com/kjj1998/countrydata.git
+[submodule "part3/phonebook-frontend"]
+	path = part3/phonebook-frontend
+	url = https://github.com/kjj1998/phonebook-frontend.git
+[submodule "part3/fullstackopen-phonebook-backend"]
+	path = part3/fullstackopen-phonebook-backend
+	url = https://github.com/kjj1998/fullstackopen-phonebook-backend.git
