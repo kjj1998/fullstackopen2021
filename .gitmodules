@@ -43,3 +43,6 @@
 [submodule "part7/ultimate-hooks"]
 	path = part7/ultimate-hooks
 	url = https://github.com/kjj1998/ultimate-hooks.git
+[submodule "part5/fullstackopen-blog-backend"]
+	path = part5/fullstackopen-blog-backend
+	url = https://github.com/kjj1998/fullstackopen-blog-backend.git
